@@ -1,0 +1,15 @@
+.like-button {
+  display: inline-block;
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.dislike-button {
+  display: inline-block;
+  padding: 5px;
+}
+
+.disliked,
+.liked {
+  color: blue;
+}
